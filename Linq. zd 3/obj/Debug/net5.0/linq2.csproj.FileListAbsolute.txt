@@ -1,0 +1,16 @@
+C:\Users\Мухаммад\Documents\linq2\obj\Debug\net5.0\linq2.csprojAssemblyReference.cache
+C:\Users\Мухаммад\Documents\linq2\obj\Debug\net5.0\linq2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мухаммад\Documents\linq2\obj\Debug\net5.0\linq2.AssemblyInfoInputs.cache
+C:\Users\Мухаммад\Documents\linq2\obj\Debug\net5.0\linq2.AssemblyInfo.cs
+C:\Users\Мухаммад\Documents\linq2\obj\Debug\net5.0\linq2.csproj.CoreCompileInputs.cache
+C:\Users\Мухаммад\Documents\linq2\bin\Debug\net5.0\linq2.exe
+C:\Users\Мухаммад\Documents\linq2\bin\Debug\net5.0\linq2.deps.json
+C:\Users\Мухаммад\Documents\linq2\bin\Debug\net5.0\linq2.runtimeconfig.json
+C:\Users\Мухаммад\Documents\linq2\bin\Debug\net5.0\linq2.runtimeconfig.dev.json
+C:\Users\Мухаммад\Documents\linq2\bin\Debug\net5.0\linq2.dll
+C:\Users\Мухаммад\Documents\linq2\bin\Debug\net5.0\ref\linq2.dll
+C:\Users\Мухаммад\Documents\linq2\bin\Debug\net5.0\linq2.pdb
+C:\Users\Мухаммад\Documents\linq2\obj\Debug\net5.0\linq2.dll
+C:\Users\Мухаммад\Documents\linq2\obj\Debug\net5.0\ref\linq2.dll
+C:\Users\Мухаммад\Documents\linq2\obj\Debug\net5.0\linq2.pdb
+C:\Users\Мухаммад\Documents\linq2\obj\Debug\net5.0\linq2.genruntimeconfig.cache
